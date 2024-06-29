@@ -1,14 +1,14 @@
 {
-    "Author" : "Yash-Kun",
+    "Author" : "Reigen",
     "Licensed_under" : "GNU GPL V-3.0",
-    "owner" : ["Replace with ID of sudos."],
-    "database_url" : "Your Mongo",
-    "main_channel" : "Id or channel username",
+    "owner" : ["5461616767"],
+    "database_url" : "mongodb+srv://Sukuna:Jujutsukaisen@sukuna.elyipfm.mongodb.net/?retryWrites=true&w=majority",
+    "main_channel" : "-1002219596041",
     "thumbnail_url" : "AAB/utils/thumb.jpeg",
-    "files_channel" : -100,
-    "production_chat" : -100,
-    "api_id" : 123456,
-    "api_hash" : "Api Hash",
-    "main_bot" : "Main Bot for file transfer",
-    "client_bot" : "Client Bot for upload"
+    "files_channel" : -1002219596041,
+    "production_chat" : -1002231604942,
+    "api_id" : 20840106,
+    "api_hash" : "bf9a89f3eeb6f95a807f0630343b90a1",
+    "main_bot" : "7234147847:AAF0YqtQG0y-dH0-2B5UPQSYbA8abRZkXYM",
+    "client_bot" : "6975345814:AAHGNM0QcjQblc3pgw71ZjKb_oERkEK0VjA"
 }
